@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TheNerderyChallengeActivity!</string>
+    <string name="app_name">BastinNerdery</string>
+    <string name="welcome">Downloading Movies</string>
+    <string name="no_connection">Internet Connection Not Available</string>
+    <string name="view_favorites">Would you like to view your favorites?</string>
+    <string name="synopsis_title">Synopsis</string>
+    <string name="cast_title">Cast</string>
+    <string name="json_string">http://api.rottentomatoes.com/api/public/v1.0/lists/movies/box_office.json?limit=16&amp;country=us&amp;apikey=4m4twjzpax4btcj772ksk9dh</string>
+    <string name="homescreen_label">Home</string>
+    <string name="favorites_label">Favorites</string>
+    <string name="details_label">Movie Details</string>
+</resources>

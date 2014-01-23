@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+      android:id="@+id/tweet_movie"
+      android:title="Tweet!"
+      android:icon="@drawable/twitter"/>
+  <item
+      android:id="@+id/add_favorite"
+      android:title="Add as Favorite"/>
+  <item 
+      android:id="@+id/remove_favorite"
+      android:title="Remove as Favorite"/>
+  
+</menu>

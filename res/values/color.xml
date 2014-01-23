@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="listcolor1">#FFFFFF</color>
+	<color name="listcolor2">#F2F2F2</color>
+	<color name="transparent">#80000000</color>
+</resources>
